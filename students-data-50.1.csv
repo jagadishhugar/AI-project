@@ -1,0 +1,51 @@
+Name,Gender,Age,Attendance (%),Study_Hours,Previous_Marks,Assignments_Completed,Join_Date,City,Extra_Classes
+ Rahul ,M,21,92,3.5,78,9,2024-06-10,Bengaluru,Yes
+Priya,Female,22,88%,4,85,10,10/06/2024,Bangalore,No
+Amit, MALE ,20,76,2.5,67,8,2024/06/12,Mysuru,Y
+Sneha,F,23,95,5,91,10,12-06-2024,Mysore,N
+Kiran,Male ,21,,3,72,7,2024-06-15,Hubballi,Yes
+Anjali,female,20,89,4.5,88,9,15/06/2024,Hubli,No
+Vikram,M,24,72,2,61,6,2024-06-18,Dharwad,Y
+Neha,Female,22,91,,93,10,18/06/2024,Dharwad,Yes
+Rohan,Male,19,68,1.5,55,5,2024/06/20,Belagavi,No
+Divya,FEMALE,21,84,3, 76 ,8,20-06-2024,Belgaum,N
+Arjun,M,22,79%,2.5,69,7,2024-06-22,Bengaluru,yes
+Pooja,Female,23,96,5.5,95,10,22/06/2024,Mysuru,No
+Manoj,Male,twenty-five,64,1,48,4,2024-06-25,Tumakuru,Y
+Asha,F,20,87,3.5,82,9,25/06/2024,Tumkur,N
+Suresh,male,22,73.5,2,64,6,2024/06/27,Shivamogga,Yes
+Meena,Female,21,90 ,4,89,10,27-06-2024,Shimoga,No
+Naveen,M,23,78,2.5,71,7,2024-06-29,Mangaluru,Y
+Kavya,female,20,93,4.5,90,10,29/06/2024,Mangalore,No
+Prakash,Male,24,69%,1.5,58,5,2024-07-01,Udupi,Yes
+Lakshmi,F,22,86%,3,81,8,01/07/2024,Udupi,N
+Harish,M ,21,82,3.0,74,8,2024/07/03,Bengaluru,Yes
+Shalini,Female,23,94,5,92,10,03-07-2024,Mysuru,No
+Ganesh,male,26,105,0.5,45,3,2024-07-05,Dharwad,Y
+Deepa,Female,21,89,4,87,9,05/07/2024,Hubballi,No
+Ravi,M,22,77,2.5,68,seven,2024-07-07,Belagavi,yes
+Swathi,F,20,91,4.5,94,10,07/07/2024,Belgaum,No
+Mahesh,Male,23,74,2,63,6,2024/07/09,Tumakuru,Y
+Nandini,Female,22,88,3.5,85,9,09-07-2024, Tumkur ,N
+Ajay,M,21,80,3,73,8,2024-07-11,Shivamogga,Yes
+Rekha,female,24,97,5.5,96,10,11/07/2024,Shimoga,No
+Vijay,Male,25,66,1.0,51,4,2024-07-13,Mangaluru,Y
+Sowmya,F,21,85,3.5,79,8,13/07/2024,Mangalore,No
+Ramesh,male,22,71,2,60,6,2024/07/15,Udupi,Yes
+Bhavana,Female,,92,4,91,10,15-07-2024,Udupi,No
+Sanjay,M,23,79,2.5,70,7,2024-07-17,Bengaluru,Y
+Aishwarya,FEMALE,22,90,4.5,88,9,17/07/2024,Mysuru,No
+Lokesh,Male,21,N/A,3,75,8,2024/07/19,Dharwad,Yes
+Geetha,female,23,87,3.5,84,9,19-07-2024,Hubli,N
+Karthik,M,24,70,2,62,6,2024-07-21,Belagavi,Y
+Divakar,Male,22,75,2.5,66,,21/07/2024,Tumakuru,Yes
+Nisha,F,21,93,4.5,90,10,2024/07/23,Shivamogga,No
+Suraj,male,20,68,1.5,57,5,23-07-2024,Mangaluru,Y
+Keerthi,Female,22,86,3.5,83,9,2024.07.25,Udupi,No
+Manjunath,M,25,62,1,49,4,25/07/2024,Bengaluru,Yes
+Pavithra,female,20,89,4,86,9,2024/07/27,Mysore,No
+Rakesh,Female ,23,81,3,74,8,27-07-2024,Dharwad,Y
+Sahana,F,21,95,5,93,10,2024-07-29,Hubballi,No
+Tejas,M,22, 76 ,2.5,65,7,29/07/2024,Belgaum,Yes
+Arjun,M,22,79%,2.5,69,7,2024-06-22,Bengaluru,yes
+Swathi,F,20,91,4.5,94,10,07/07/2024,Belgaum,No
